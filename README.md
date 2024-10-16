@@ -48,5 +48,5 @@ For further details, you can access the **SQL code** and full project implementa
 
 ---
 **Author**: Abhilash Antony  
-**GitHub**: [abhilash-antony](https://github.com/abhilash-antony)
+**GitHub**: [abhilash-antony](https://github.com/abhilash-antony)  
 **Date**: 16 October 2024
