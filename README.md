@@ -36,7 +36,7 @@ The tables in the database are connected through **primary and foreign keys** to
 ## ERD (Entity-Relationship Diagram)
 The ERD provides a visual representation of the entities and relationships within the database. It maps out how different tables such as customers, orders, ingredients, and staff interact within the system.
 
-![ERD Diagram](path_to_your_ERD_image)
+![ERD Diagram](ERD_Pizza_Oven.png)
 
 ## Database Schema
 The detailed database schema includes the structure of each table and the relationships between them. The schema design supports the daily operations of Pizza Oven by facilitating accurate tracking of orders, inventory, and staff schedules.
